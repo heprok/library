@@ -1,3 +1,6 @@
 [submodule "php/DoctrineExtensions"]
 	path = php/DoctrineExtensions
 	url = git@github.com:technolescom/DoctrineExtensions.git
+[submodule "vue/tlc-front-components"]
+	path = vue/tlc-front-components
+	url = git@github.com:technolescom/tlc-front-components.git
