@@ -7,3 +7,6 @@
 [submodule "vue/builder-query-vuetify"]
 	path = vue/builder-query-vuetify
 	url = git@github.com:technolescom/builder-query-vuetify.git
+[submodule "vue/daterange-picker-vuetify"]
+	path = vue/daterange-picker-vuetify
+	url = git@github.com:technolescom/daterange-picker-vuetify.git
