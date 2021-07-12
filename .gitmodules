@@ -10,3 +10,9 @@
 [submodule "vue/daterange-picker-vuetify"]
 	path = vue/daterange-picker-vuetify
 	url = git@github.com:technolescom/daterange-picker-vuetify.git
+[submodule "php/ManualBundle"]
+	path = php/ManualBundle
+	url = git@github.com:technolescom/ManualBundle.git
+[submodule "php/ReportBundle"]
+	path = php/ReportBundle
+	url = git@github.com:technolescom/ReportBundle.git
