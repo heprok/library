@@ -4,6 +4,9 @@
 [submodule "vue/tlc-front-components"]
 	path = vue/tlc-front-components
 	url = git@github.com:technolescom/tlc-front-components.git
+[submodule "vue/tlc-pdfjs-report"]
+	path = vue/tlc-pdfjs-report
+	url = git@github.com:technolescom/tlc-pdfjs-report.git
 [submodule "vue/builder-query-vuetify"]
 	path = vue/builder-query-vuetify
 	url = git@github.com:technolescom/builder-query-vuetify.git
